@@ -195,4 +195,3 @@ This document is provided for informational purposes only and does not constitut
 •	Token Contract: https://bscscan.com/token/0x3C10e343095e4FDdf5CC36FCd41E298cF9aD2eAA
  
 
-<img width="468" height="639" alt="image" src="https://edenorex.io/orx_logo.svg" />
